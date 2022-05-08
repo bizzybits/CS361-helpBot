@@ -4,7 +4,7 @@ This is a helpBot microservice!
 You can install it in your Python CLI.
 
 ## Requirements:
-    * create a "helpMe.txt" file
+   create a "helpMe.txt" file
 
 ## To launch service use:
 
